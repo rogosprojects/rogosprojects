@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hey there 👋
+
+This is just an example of to my "GitHub README profile"; i should tell other people about myself.
+
+![](https://en.gravatar.com/userimage/57768421/f4c3e7ce27963e566ca05a43dee59aa1.png?size=200)
 
 <!--
 **rogosprojects/rogosprojects** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
