@@ -1,6 +1,6 @@
 ### Hey there 👋
 
-This is just an example of to my "GitHub README profile"; i should tell other people about myself.
+This is just an example of my "GitHub README profile"; I should tell other people about myself.
 
 ![](https://en.gravatar.com/userimage/57768421/f4c3e7ce27963e566ca05a43dee59aa1.png?size=200)
 
