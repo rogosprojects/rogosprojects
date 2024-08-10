@@ -20,9 +20,8 @@ I'm currently working as *DevOps Engineer*
 - **Web Development**: HTML, CSS, React, Node.js
 - **Databases**: MySQL, PostgreSQL, MongoDB
 - **DevOps Tools**: Git, Docker, Kubernetes, Jenkins, Terraform, Ansible
-- **Cloud Platforms**: AWS, Azure, Google Cloud
+- **Cloud Platforms**: AWS, Google Cloud
 - **Monitoring and Logging**: Prometheus, Grafana, ELK Stack
-- **Security**: Vault, AWS IAM
 
 
 
