@@ -1,8 +1,35 @@
 ### Hey there 👋
 
-This is just an example of my "GitHub README profile"; I should tell other people about myself.
+I am a developer with a passion for open-source projects. I am skilled in various programming languages and technologies, with a proven track record of delivering high-quality software solutions.
 
-![](https://en.gravatar.com/userimage/57768421/f4c3e7ce27963e566ca05a43dee59aa1.png?size=200)
+As a DevOps engineer, I have experience in designing and implementing CI/CD pipelines, automating infrastructure provisioning, and managing containerized applications. I am proficient in using tools like Jenkins, Docker, Kubernetes, and Terraform, and have a deep understanding of cloud platforms such as AWS, and Google Cloud. My expertise includes monitoring and optimizing system performance, implementing security best practices, and collaborating with development teams to streamline deployment processes.
+
+I'm currently working as *DevOps Engineer*
+
+**Responsibilities**:
+  - Design and implement CI/CD pipelines using Jenkins, GitLab CI, and GitHub Actions.
+  - Automate infrastructure provisioning and management using Terraform and Ansible.
+  - Deploy and manage containerized applications using Docker and Kubernetes.
+  - Monitor and optimize system performance using Prometheus, Grafana, and the ELK stack.
+  - Implement security best practices and compliance checks using tools like Vault and AWS IAM.
+  - Collaborate with development teams to streamline deployment processes and improve code quality.
+
+## Skills
+
+- **Programming Languages**: FO, Python, JavaScript, Java, C++
+- **Web Development**: HTML, CSS, React, Node.js
+- **Databases**: MySQL, PostgreSQL, MongoDB
+- **DevOps Tools**: Git, Docker, Kubernetes, Jenkins, Terraform, Ansible
+- **Cloud Platforms**: AWS, Azure, Google Cloud
+- **Monitoring and Logging**: Prometheus, Grafana, ELK Stack
+- **Security**: Vault, AWS IAM
+
+
+
+## 📝 Get In Touch
+[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/gianmarcorogo/
 
 <!--
 **rogosprojects/rogosprojects** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
