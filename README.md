@@ -16,7 +16,7 @@ I'm currently working as *DevOps Engineer*
 
 ## Skills
 
-- **Programming Languages**: FO, Python, JavaScript, Java, C++
+- **Programming Languages**: GO, Python, JavaScript, Java, C++
 - **Web Development**: HTML, CSS, React, Node.js
 - **Databases**: MySQL, PostgreSQL, MongoDB
 - **DevOps Tools**: Git, Docker, Kubernetes, Jenkins, Terraform, Ansible
